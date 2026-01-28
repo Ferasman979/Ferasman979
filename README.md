@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Feras Mahmood
+# 👋 Hi, I’m Feras
 
 **GenAI / ML / Data Engineering–focused engineer** passionate about production ML systems, automation, and reliability.  
 🎓 Final-year **B.CompSci (Data Analytics)** @ Sheridan College · 📍 Oakville, ON
