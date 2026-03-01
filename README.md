@@ -62,4 +62,4 @@ Real-time computer vision mobile application analyzing cricket shot mechanics.
 ## 📫 Let’s Connect
 
 - 🌐 **Website:** https://ferasmahmood.com  
-- 💼 **LinkedIn:** https://www.linkedi
+- 💼 **LinkedIn:** https://www.linkedin.com/in/feras-mahmood/
