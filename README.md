@@ -1,65 +1,66 @@
-# 👋 Hi, I’m Feras
+<div align="center">
 
-**GenAI / ML / Data Engineering–focused engineer** passionate about production ML systems, automation, and reliability.  
-🎓 Final-year **B.CompSci (Data Analytics)** @ Sheridan College · 📍 Oakville, ON
+# Feras Mahmood
 
----
+<p>
+  Software Engineer — Data &amp; AI<br>
+  LangGraph, RAG, MLOps.
+</p>
 
-## 🔍 What I Do
+<a href="https://ferasmahmood.com">
+  <img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Portfolio">
+</a>
+<a href="https://linkedin.com/in/feras-mahmood">
+  <img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
+</a>
 
-- **Architect Scalable ML & Data Platforms**  
-  Design high-volume data ingestion pipelines, lakehouse architectures, and validation workflows for **RAG agents, NLP systems, and ML workloads** using Spark, Delta Lake, and Databricks.
-
-- **Productionize ML with MLOps & CI/CD**  
-  Operationalize end-to-end ML lifecycles with **MLflow, Databricks workflows, GitHub Actions, and Airflow**, enabling reproducible training, automated evaluation, and governed model serving.
-
-- **Build ML-Integrated APIs & Applications**  
-  Develop and deploy ML-powered APIs, webhooks, and full-stack applications using **Docker, Kubernetes (k3s), Azure, and GCP**.
-
-- **Infrastructure, Observability & Reliability**  
-  Manage cloud infrastructure with **Terraform (IaC)** and maintain **99.9% uptime** using deep observability stacks including **Prometheus, Grafana, and Tempo**.
+</div>
 
 ---
 
-##  Featured Projects
+## Stack
 
-###  HR GenAI Platform
-AI-powered applicant tracking and evaluation system using autonomous agents and retrieval-augmented generation.
-- **Tech:** Next.js, TypeScript, LangChain, Llama 3, Azure, MongoDB
-- Automated resume parsing, candidate scoring, and RAG-based evaluations
-- Implemented autonomous research agents to verify candidate claims via GitHub and portfolio analysis  
-- 👉 [View Project](https://github.com/Ferasman979/HRApp)
+<img src="https://img.shields.io/badge/PYTHON-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
+<img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="SQL">
+<img src="https://img.shields.io/badge/TYPESCRIPT-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
+<img src="https://img.shields.io/badge/JAVASCRIPT-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
 
----
+<img src="https://img.shields.io/badge/LANGGRAPH-0d1117?style=for-the-badge&logo=langchain&logoColor=1C3C3C" alt="LangGraph">
+<img src="https://img.shields.io/badge/LLAMAINDEX-0d1117?style=for-the-badge&logo=meta&logoColor=8A2BE2" alt="LlamaIndex">
+<img src="https://img.shields.io/badge/PYTORCH-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch">
+<img src="https://img.shields.io/badge/HUGGINGFACE-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="HuggingFace">
+<img src="https://img.shields.io/badge/MLFLOW-0d1117?style=for-the-badge&logo=mlflow&logoColor=0194E2" alt="MLflow">
 
-###  Workforce Performance Lakehouse (Databricks)
-Production-grade analytics and ML platform built on the Databricks Lakehouse architecture.
-- **Tech:** Databricks, Spark, Delta Lake, MLflow, Unity Catalog, Power BI
-- Implemented Medallion Architecture with optimized clustering for large-scale analytics
-- Operationalized predictive models with governed training, tracking, and deployment  
-- 👉 [View Project](https://github.com/Ferasman979/Workforce-Performance-Lakehouse)
+<img src="https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS">
+<img src="https://img.shields.io/badge/GOOGLE%20CLOUD-0d1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4" alt="Google Cloud">
+<img src="https://img.shields.io/badge/KUBERNETES-0d1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5" alt="Kubernetes">
+<img src="https://img.shields.io/badge/TERRAFORM-0d1117?style=for-the-badge&logo=terraform&logoColor=7B42BC" alt="Terraform">
+<img src="https://img.shields.io/badge/DOCKER-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
 
----
-
-###  Sports Analytics App
-Real-time computer vision mobile application analyzing cricket shot mechanics.
-- **Tech:** YOLOv8, Flutter, Google Cloud Run
-- Deployed serverless inference pipelines for low-latency, scalable usage
-- Award-winning capstone project recognized for real-world impact
-
----
-
-## 🛠 Skills & Tools
-
-**Languages:** Python, SQL, JavaScript, TypeScript  
-**ML & Data:** Spark, Databricks, MLflow, Delta Lake, LangChain, RAG  
-**Cloud & DevOps:** Docker, Kubernetes, Terraform, GitHub Actions, Airflow  
-**Observability:** Prometheus, Grafana, Tempo  
-**BI & Apps:** Power BI, Streamlit, Next.js
+<img src="https://img.shields.io/badge/AIRFLOW-0d1117?style=for-the-badge&logo=apacheairflow&logoColor=017CEE" alt="Airflow">
+<img src="https://img.shields.io/badge/DATABRICKS-0d1117?style=for-the-badge&logo=databricks&logoColor=FF3621" alt="Databricks">
+<img src="https://img.shields.io/badge/DBT-0d1117?style=for-the-badge&logo=dbt&logoColor=FF694B" alt="dbt">
+<img src="https://img.shields.io/badge/POSTGRESQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/GRAFANA-0d1117?style=for-the-badge&logo=grafana&logoColor=F46800" alt="Grafana">
 
 ---
 
-## 📫 Let’s Connect
+## Work
 
-- 🌐 **Website:** https://ferasmahmood.com  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/feras-mahmood/
+**AI Software Developer** @ Sheridan College — *Oct 2025 – Present*
+Stateful LangGraph ReAct agents for clinical documentation, Bedrock structured extraction with Pydantic validation, and Postgres checkpointing for durable interrupt-and-resume runs. Built a LlamaIndex + pgvector RAG platform serving 10k+ users, and cut GPU inference cost 30% with KEDA-autoscaled pools on GKE.
+
+**Data Analyst** @ Paradigm Electronics — *May 2024 – Aug 2025*
+Airflow ETL and SQL transformations replacing manual sales reporting, a JWT/RBAC Node.js API on RDS behind CloudFront, and Power BI dashboards whose anomaly detection recovered $15,000 CAD in misplaced costs.
+
+---
+
+## Currently
+
+- Building agentic pipelines with human-in-the-loop review gates
+- LLM observability — Langfuse tracing, Presidio PII redaction, RAGAS regression checks
+- Databricks Data Engineer Associate *(in progress)*
+
+<div align="center">
+  <sub>Oakville, ON · technocratz979@gmail.com</sub>
+</div>
